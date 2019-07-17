@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: gumroadmvp_production
-  username: gumroadmvp
+  database: db09krmj9lqh5d
+  username: maefnugvhbnimx
   password: <%= ENV['GUMROADMVP_DATABASE_PASSWORD'] %>
